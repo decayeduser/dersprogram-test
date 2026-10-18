@@ -1,0 +1,6 @@
+{
+  "name": "ScholarDesk Desktop — Student Calendar & Task Dashboard",
+  "description": "Desktop-grade student calendar and task management dashboard (.exe layout) with academic timetable scheduling, Pomodoro focus tracker, and robust offline data sync engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
